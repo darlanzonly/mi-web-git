@@ -1,0 +1,12 @@
+#Indicamos a continuación todos los ficheros a excluir en el control de versiones
+
+# Carpeta de Visual Studio Code
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
